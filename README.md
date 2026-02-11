@@ -1,1 +1,1 @@
-# GQS-Revis-o-Java-Arena-de-Skins
+# GQS - Revisão: Excercício Java "Arena de Skins"
